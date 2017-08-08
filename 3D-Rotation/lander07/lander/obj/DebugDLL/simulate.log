@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(150,5): warning MSB4211: The property "WindowsTargetPlatformVersion" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (obj/DebugDLL\) contains files shared from another project (animate-lander.vcxproj, animate.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  simulate.c
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment3\lander07\lander07\lander\simulate.c(57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment3\lander07\lander07\lander\simulate.c(74): warning C4716: 'init_sim': must return a value
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment3\lander07\lander07\lander\simulate.c(86): warning C4716: 'reinit_sim': must return a value
+  simulate.vcxproj -> C:\Users\archi\Desktop\Somaiya drive\Sem2\16711\assignment3\lander07\lander07\lander\.\simulate.exe
+  simulate.vcxproj -> .\simulate.pdb (Full PDB)

@@ -1,0 +1,24 @@
+# sdfast -lc -ge -plander_ lander.sd
+
+# Spacecraft (sphere)
+
+# Coordinates : 
+# n1 = X = body forward
+# n2 = Y = body left
+# n3 = Z = up
+
+language = c
+
+gravity = 0 0 0
+
+body = spacecraft  inb = $ground  joint = sixdof
+    inbtojoint = 0 0 0   
+    bodytojoint = 0 0 0
+
+    pin = 1 0 0
+    pin = 0 1 0
+    pin = 0 0 1
+
+    mass = 1.0?
+
+    inertia = 1.0? 1.0? 1.0?

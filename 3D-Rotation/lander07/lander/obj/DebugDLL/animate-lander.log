@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (obj/DebugDLL\) contains files shared from another project (animate.vcxproj, simulate.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  animate-lander.vcxproj -> C:\Users\archi\Desktop\Somaiya drive\Sem2\16711\assignment3\lander07\lander07\lander\.\animate-lander.exe
+  animate-lander.vcxproj -> .\animate-lander.pdb (Full PDB)
