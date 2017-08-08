@@ -1,0 +1,230 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(150,5): warning MSB4211: The property "WindowsTargetPlatformVersion" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (obj/DebugDLL\) contains files shared from another project (animate.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  simulate.c
+  lander_s.c
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_s.c(26): warning C4013: 'lander_ang2st' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_s.c(27): warning C4013: 'lander_state' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_s.c(28): warning C4013: 'lander_perr' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_s.c(37): warning C4013: 'lander_verr' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_s.c(48): warning C4013: 'lander_uforce' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_s.c(50): warning C4013: 'lander_deriv' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_s.c(95): warning C4013: 'lander_gentime' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_s.c(97): warning C4013: 'lander_seterr' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_s.c(100): warning C4013: 'lander_st2ang' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_s.c(158): warning C4013: 'lander_root' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_s.c(246): warning C4013: 'lander_vinteg' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_s.c(277): warning C4013: 'lander_finteg' undefined; assuming extern returning int
+  lander_lib.c
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_lib.c(1613): warning C4101: 'temp': unreferenced local variable
+  lander_d.c
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_d.c(453): warning C4013: 'lander_seterr' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_d.c(505): warning C4013: 'lander_serialno' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_d.c(445): warning C4101: 'sumsq': unreferenced local variable
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_d.c(445): warning C4101: 'norminv': unreferenced local variable
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_d.c(523): warning C4013: 'lander_quat2dc' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_d.c(524): warning C4013: 'lander_dc2ang' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_d.c(538): warning C4013: 'lander_ang2dc' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_d.c(539): warning C4013: 'lander_dc2quat' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_d.c(1038): warning C4013: 'lander_error' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_d.c(1063): warning C4013: 'lander_ldudcomp' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_d.c(1098): warning C4101: 'tstareq': unreferenced local variable
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_d.c(1098): warning C4101: 'fstareq': unreferenced local variable
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_d.c(1250): warning C4101: 'Otkr': unreferenced local variable
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_d.c(1250): warning C4101: 'Atir': unreferenced local variable
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_d.c(1757): warning C4013: 'lander_ldubslv' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_d.c(1843): warning C4101: 'udot1': unreferenced local variable
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_d.c(2332): warning C4013: 'lander_vcopy' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_d.c(2398): warning C4013: 'lander_vset' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_d.c(2414): warning C4013: 'lander_vcross' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\lander_d.c(2415): warning C4013: 'lander_vadd' undefined; assuming extern returning int
+  alien_s.c
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_s.c(26): warning C4013: 'alien_ang2st' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_s.c(27): warning C4013: 'alien_state' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_s.c(28): warning C4013: 'alien_perr' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_s.c(37): warning C4013: 'alien_verr' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_s.c(48): warning C4013: 'alien_uforce' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_s.c(50): warning C4013: 'alien_deriv' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_s.c(95): warning C4013: 'alien_gentime' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_s.c(97): warning C4013: 'alien_seterr' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_s.c(100): warning C4013: 'alien_st2ang' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_s.c(158): warning C4013: 'alien_root' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_s.c(246): warning C4013: 'alien_vinteg' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_s.c(277): warning C4013: 'alien_finteg' undefined; assuming extern returning int
+  alien_lib.c
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_lib.c(1613): warning C4101: 'temp': unreferenced local variable
+  alien_d.c
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_d.c(453): warning C4013: 'alien_seterr' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_d.c(505): warning C4013: 'alien_serialno' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_d.c(445): warning C4101: 'sumsq': unreferenced local variable
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_d.c(445): warning C4101: 'norminv': unreferenced local variable
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_d.c(523): warning C4013: 'alien_quat2dc' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_d.c(524): warning C4013: 'alien_dc2ang' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_d.c(538): warning C4013: 'alien_ang2dc' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_d.c(539): warning C4013: 'alien_dc2quat' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_d.c(1038): warning C4013: 'alien_error' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_d.c(1063): warning C4013: 'alien_ldudcomp' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_d.c(1098): warning C4101: 'tstareq': unreferenced local variable
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_d.c(1098): warning C4101: 'fstareq': unreferenced local variable
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_d.c(1250): warning C4101: 'Otkr': unreferenced local variable
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_d.c(1250): warning C4101: 'Atir': unreferenced local variable
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_d.c(1757): warning C4013: 'alien_ldubslv' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_d.c(1843): warning C4101: 'udot1': unreferenced local variable
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_d.c(2332): warning C4013: 'alien_vcopy' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_d.c(2398): warning C4013: 'alien_vset' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_d.c(2414): warning C4013: 'alien_vcross' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\sdfast\alien_d.c(2415): warning C4013: 'alien_vadd' undefined; assuming extern returning int
+  parameters.c
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\parameters.c(137): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\parameters.c(227): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  matrix3.c
+  dynamics.c
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\dynamics.c(27): error C2059: syntax error: 'sizeof'
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\dynamics.c(30): error C2059: syntax error: 'sizeof'
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\dynamics.c(291): warning C4013: 'alien_iner' undefined; assuming extern returning int
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\dynamics.c(292): warning C4013: 'lander_iner' undefined; assuming extern returning int
+  data.c
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(453): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(454): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(455): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(456): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(457): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(458): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(459): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(460): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(461): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(462): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(463): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(464): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(465): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(466): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(467): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(468): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(469): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(470): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(471): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(472): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(473): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(474): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(475): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(476): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(477): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(478): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(479): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(480): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(481): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(482): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(483): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(484): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(485): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(486): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(487): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(488): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(489): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(490): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(491): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(492): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(493): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(494): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(495): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(496): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(497): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(498): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(499): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(500): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(501): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(502): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(503): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(504): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(505): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(506): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(507): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(508): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(509): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(510): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(511): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(512): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(513): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(514): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(515): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(516): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(517): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(518): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(519): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(520): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(521): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(522): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(523): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(524): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(525): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(526): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(527): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(528): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(529): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(530): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(531): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(532): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(533): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(534): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(535): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(536): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(537): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(538): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(539): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(540): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(541): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(542): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(543): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(544): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(545): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(546): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(547): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(548): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(549): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(550): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(551): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(552): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(553): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(554): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(555): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(556): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(557): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(558): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(559): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(560): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(561): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(562): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(563): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(564): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(565): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(566): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(567): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(568): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(569): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(570): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(571): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(572): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(573): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(574): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(575): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(576): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(577): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(578): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(579): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(580): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\data.c(635): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  controller.c
+  mrdplot.c
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\useful\mrdplot\mrdplot.c(109): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\useful\mrdplot\mrdplot.c(110): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\useful\mrdplot\mrdplot.c(253): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\useful\mrdplot\mrdplot.c(265): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\useful\mrdplot\mrdplot.c(270): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+  Generating Code...
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\simulate.c(28): warning C4716: 'init_sim': must return a value
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment4_c\lander07\lander\simulate.c(40): warning C4716: 'reinit_sim': must return a value

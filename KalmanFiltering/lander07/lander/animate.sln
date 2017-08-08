@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "animate", "animate.vcxproj", "{FE66E49C-CF34-5F4B-B43C-9A0C89185222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		DebugDLL|x86 = DebugDLL|x86
+		DebugLib|x86 = DebugLib|x86
+		ReleaseDLL|x86 = ReleaseDLL|x86
+		ReleaseLib|x86 = ReleaseLib|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE66E49C-CF34-5F4B-B43C-9A0C89185222}.DebugDLL|x86.ActiveCfg = DebugDLL|Win32
+		{FE66E49C-CF34-5F4B-B43C-9A0C89185222}.DebugDLL|x86.Build.0 = DebugDLL|Win32
+		{FE66E49C-CF34-5F4B-B43C-9A0C89185222}.DebugLib|x86.ActiveCfg = DebugLib|Win32
+		{FE66E49C-CF34-5F4B-B43C-9A0C89185222}.DebugLib|x86.Build.0 = DebugLib|Win32
+		{FE66E49C-CF34-5F4B-B43C-9A0C89185222}.ReleaseDLL|x86.ActiveCfg = ReleaseDLL|Win32
+		{FE66E49C-CF34-5F4B-B43C-9A0C89185222}.ReleaseDLL|x86.Build.0 = ReleaseDLL|Win32
+		{FE66E49C-CF34-5F4B-B43C-9A0C89185222}.ReleaseLib|x86.ActiveCfg = ReleaseLib|Win32
+		{FE66E49C-CF34-5F4B-B43C-9A0C89185222}.ReleaseLib|x86.Build.0 = ReleaseLib|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

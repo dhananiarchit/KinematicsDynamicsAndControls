@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (obj/DebugDLL\) contains files shared from another project (simulate.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  parameters.c
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment 4\part0\part0\parameters.c(137): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment 4\part0\part0\parameters.c(227): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  mrdplot.c
+c1 : fatal error C1083: Cannot open source file: '..\useful\mrdplot\mrdplot.c': No such file or directory
+  animate.c
+c:\users\archi\desktop\somaiya drive\sem2\16711\assignment 4\part0\part0\animate.c(13): fatal error C1083: Cannot open include file: 'drawstuff.h': No such file or directory
+  Generating Code...
