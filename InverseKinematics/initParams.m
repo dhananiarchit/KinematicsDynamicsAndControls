@@ -1,0 +1,14 @@
+clc;
+link_length = [1 1 1 1 1 1 1 1 1 1];
+target = [-1.5,1.5,2.5,1,0,0,0];
+min_roll = [-pi, -pi, -pi, -pi, -pi, -pi, -pi, -pi, -pi, -pi];
+min_pitch = [-pi, -pi, -pi, -pi, -pi, -pi, -pi, -pi, -pi, -pi];
+min_yaw = [-pi, -pi, -pi, -pi, -pi, -pi, -pi, -pi, -pi, -pi];
+max_roll = [pi, pi, pi, pi, pi, pi, pi, pi, pi, pi];
+max_pitch = [pi, pi, pi, pi, pi, pi, pi, pi, pi, pi];
+max_yaw = [pi, pi, pi, pi, pi, pi, pi, pi, pi, pi];
+obstacles(1,:) = [1 1 1 0.2];
+obstacles(2,:) = [1 0 0 0.3];
+obstacles(3,:) = [0 1 1 0.2];
+obstacles(4,:) = [1 1 2 0.2];
+obstacles(5,:) = [2 2 2 0.4];
